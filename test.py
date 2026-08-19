@@ -1,3 +1,3 @@
-branch = "Main"
+branch = "Feature"
 
-version = "1.0"
+version = "2.0"
